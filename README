@@ -4,8 +4,5 @@ Maven job for compile :
 gwt:compile with the project base location configured.
 gwt:run  with the project base location configured.
 
-When the application was started, for compile append to the url : 
-
-/recompile/donottouch?_callback=cback&user.agent=safari,gecko1_8,ie8,ie9,ie10
 
 
