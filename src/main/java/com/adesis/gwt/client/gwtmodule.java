@@ -1,7 +1,6 @@
-package org.krams.tutorial.client;
+package com.adesis.gwt.client;
 
-import org.krams.tutorial.shared.FieldVerifier;
-
+import com.adesis.gwt.shared.FieldVerifier;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;

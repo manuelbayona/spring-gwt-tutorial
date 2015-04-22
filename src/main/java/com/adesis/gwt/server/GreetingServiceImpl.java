@@ -1,10 +1,10 @@
-package org.krams.tutorial.server;
+package com.adesis.gwt.server;
 
-import org.krams.tutorial.client.GreetingService;
-import org.krams.tutorial.shared.FieldVerifier;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.adesis.gwt.client.GreetingService;
+import com.adesis.gwt.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 /**

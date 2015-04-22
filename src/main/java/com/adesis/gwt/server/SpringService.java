@@ -1,4 +1,4 @@
-package org.krams.tutorial.server;
+package com.adesis.gwt.server;
 
 import org.springframework.stereotype.Service;
  

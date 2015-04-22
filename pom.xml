@@ -167,7 +167,7 @@
         <configuration>
           <runTarget>gwtmodule.html</runTarget>
           <hostedWebapp>${webappDirectory}</hostedWebapp>
-          <i18nMessagesBundle>org.krams.tutorial.client.Messages</i18nMessagesBundle>
+          <i18nMessagesBundle>com.adesis.gwt.client.Messages</i18nMessagesBundle>
         </configuration>
       </plugin>
 

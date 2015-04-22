@@ -1,4 +1,4 @@
-package org.krams.tutorial.client;
+package com.adesis.gwt.client;
 
 import com.google.gwt.user.client.rpc.AsyncCallback;
 

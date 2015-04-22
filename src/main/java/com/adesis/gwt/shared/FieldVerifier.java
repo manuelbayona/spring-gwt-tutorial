@@ -1,4 +1,4 @@
-package org.krams.tutorial.shared;
+package com.adesis.gwt.shared;
 
 /**
  * <p>
