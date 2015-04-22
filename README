@@ -1,18 +1,11 @@
-Description
-===========
-Sample application demonstrating how to integrate Spring 3.1 and GWT using the GWTHandler library.
 
-To read the whole guide, please see the original blog:
+Maven job for compile :
 
-"Spring 3.1: GWT Maven Plugin and GWTHandler Integration"
-http://krams915.blogspot.com/2012/02/spring-31-gwt-maven-plugin-and_3309.html
+gwt:compile with the project base location configured.
+gwt:run  with the project base location configured.
 
+When the application was started, for compile append to the url : 
 
-Building
-========
-Please visit http://krams915.blogspot.com/2012/02/spring-31-gwt-maven-plugin-and.html for full instructions
+/recompile/donottouch?_callback=cback&user.agent=safari,gecko1_8,ie8,ie9,ie10
 
 
-Notes
-=====
-For more tutorials, please visit http://krams915.blogspot.com/
